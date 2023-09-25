@@ -1,4 +1,3 @@
-//import logo from './logo.svg';
 import React,{ useState } from 'react';
 import './App.css';
 import About from './components/About';
@@ -48,10 +47,9 @@ function App() {
         <Alert alert={alert} />
         <div className="container my-4">
           <Routes>
-            <Route exact path="/about" element={<About heading="About Us" />} />
             <Route exact path="/" element={<TextForm heading="Enter the text to analyze : " mode={mode} showAlert={showAlert} />} />              
+            <Route exact path="/about" element={<About heading="About Us" />} />
           </Routes>
-          {/* <About heading="About Us" /> */}
         </div>
       </BrowserRouter>
     </>
