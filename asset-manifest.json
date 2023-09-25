@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextPRO/static/css/main.abd64e84.css",
+    "main.js": "/TextPRO/static/js/main.0a8e7d99.js",
+    "static/js/787.635aedaa.chunk.js": "/TextPRO/static/js/787.635aedaa.chunk.js",
+    "index.html": "/TextPRO/index.html",
+    "main.abd64e84.css.map": "/TextPRO/static/css/main.abd64e84.css.map",
+    "main.0a8e7d99.js.map": "/TextPRO/static/js/main.0a8e7d99.js.map",
+    "787.635aedaa.chunk.js.map": "/TextPRO/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.0a8e7d99.js"
+  ]
+}
